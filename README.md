@@ -19,7 +19,7 @@ version: 'bot-version'
 mongo: "mongo-uri"
 bot_name: "bot-name"
 `` `
-### Beispielkonfiguration
+#### Beispielkonfiguration
 ```jaml
 Manager:
 - 219567539049594880
