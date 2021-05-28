@@ -1,0 +1,3 @@
+=setup | Setze deinen Server fuers Bumpen auf
+=bump | Bumpe deinen Server
+=delete | Loesche deinen Server aus der Datenbank

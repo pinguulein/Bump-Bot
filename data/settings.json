@@ -1,0 +1,7 @@
+{
+    "cooldown": 3600,
+    "show_motd": true,
+    "show_motd_wait": 10,
+    "enable_serverlist": false,
+    "serverlist_url": "http://127.0.0.1:5000/"
+}
